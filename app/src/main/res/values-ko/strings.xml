@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">예제105 대체 리소스 테스트</string>
+
+    <string name="title">안녕하세요</string>
+    <string name="message">만나서 반갑습니다.</string>
+</resources>
